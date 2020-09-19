@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gustavo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/gustavo-amorim-esp%C3%ADrito-santo-5aa3621b4/]
-[<img align="left" alt="Gustavo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram.com]
+[<img align="left" alt="Gustavo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/gustavo-amorim-esp%C3%ADrito-santo-5aa3621b4]
+[<img align="left" alt="Gustavo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][]
 
 <br />
 
