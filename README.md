@@ -1,7 +1,5 @@
 # Gustavo Amorim
 
-CEO @sapphirecode.
-
 [![Gmail Badge](https://img.shields.io/badge/-guh.contato.work@outlook.com.br-1db7c8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guh.contato.work@outlook.com.br)](mailto:guh.contato.work@outlook.com.br)
 
 Enthusiast of the web development technologies.
