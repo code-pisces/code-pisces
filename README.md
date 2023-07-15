@@ -1,9 +1,17 @@
 # Gustavo Amorim
 
-[![Gmail Badge](https://img.shields.io/badge/-guh.contato.work@outlook.com.br-1db7c8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guh.contato.work@outlook.com.br)](mailto:guh.contato.work@outlook.com.br)
+### About
+* Hate programming, computer and internet;
+* Ethical user experience designer;
+* Javascript hater;
+* Trying to really help by designing solutions;
 
-Enthusiast of the web development technologies.
+### Interests
+* Psychology;
+* Oratory;
+* Language;
+* Illustration;
 
-Enchanted by the power of programming and in search of challenges. Always ready to code.
-
-"If you want to stand out, be no different, be excellent."
+### Meh..
+* Proficient in React... but I hate it.
+* Love martial art.
